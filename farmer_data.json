@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "The plant is not growing properly.",
+    "answer": "Ensure it gets enough water and sunlight.",
+    "entities": [],
+    "ambiguous": [
+      "plant"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "There is a pesticide plant near my village.",
+    "answer": "Yes, it's a pesticide manufacturing facility.",
+    "entities": [
+      "village",
+      "pesticide"
+    ],
+    "ambiguous": [
+      "plant"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Spray the pesticide in the evening.",
+    "answer": "Evening spray reduces evaporation loss.",
+    "entities": [
+      "pesticide"
+    ],
+    "ambiguous": [
+      "spray"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "I bought a new spray for my crops.",
+    "answer": "Check the nozzle size for better coverage.",
+    "entities": [
+      "crops"
+    ],
+    "ambiguous": [
+      "spray"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How should I feed my goats?",
+    "answer": "Provide dry fodder and clean water twice daily.",
+    "entities": [
+      "goats"
+    ],
+    "ambiguous": [
+      "feed"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "The machine feed is jammed again.",
+    "answer": "Lubricate the rollers to avoid jamming.",
+    "entities": [
+      "machine"
+    ],
+    "ambiguous": [
+      "feed"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "I planted wheat last week.",
+    "answer": "Good, irrigate 21 days after sowing.",
+    "entities": [
+      "wheat"
+    ],
+    "ambiguous": [
+      "planted"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "मुझे गेहूं की बुवाई कब करनी चाहिए?",
+    "answer": "अक्टूबर से नवंबर का समय उपयुक्त होता है।",
+    "entities": [
+      "गेहूं"
+    ],
+    "ambiguous": []
+  },
+  {
+    "id": 9,
+    "question": "Is urea good for rice?",
+    "answer": "Yes, apply it in split doses for better uptake.",
+    "entities": [
+      "urea",
+      "rice"
+    ],
+    "ambiguous": []
+  },
+  {
+    "id": 10,
+    "question": "My cotton crop has whiteflies.",
+    "answer": "Use neem oil or Imidacloprid spray.",
+    "entities": [
+      "cotton",
+      "whiteflies"
+    ],
+    "ambiguous": []
+  },
+  {
+    "id": 11,
+    "question": "मेरे टमाटर में झुलसा रोग हो गया है।",
+    "answer": "Mancozeb फफूंदनाशी का छिड़काव करें।",
+    "entities": [
+      "टमाटर",
+      "झुलसा रोग"
+    ],
+    "ambiguous": [
+      "छिड़काव"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "I saw a plant outside the factory.",
+    "answer": "Please specify if it's a tree or an industrial unit.",
+    "entities": [
+      "factory"
+    ],
+    "ambiguous": [
+      "plant"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Spray can is leaking.",
+    "answer": "Check the seal and replace the can if needed.",
+    "entities": [],
+    "ambiguous": [
+      "spray"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "How do I feed fish in a pond?",
+    "answer": "Use pellet feed twice a day.",
+    "entities": [
+      "fish",
+      "pond"
+    ],
+    "ambiguous": [
+      "feed"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Tomato plants need calcium.",
+    "answer": "Use calcium nitrate foliar spray.",
+    "entities": [
+      "tomato",
+      "calcium"
+    ],
+    "ambiguous": [
+      "plants"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "पंजाब में धान की रोपाई कब शुरू होती है?",
+    "answer": "जून के मध्य से जुलाई तक रोपाई की जाती है।",
+    "entities": [
+      "पंजाब",
+      "धान"
+    ],
+    "ambiguous": []
+  },
+  {
+    "id": 17,
+    "question": "There is a feed blockage in the tractor.",
+    "answer": "Check the input chute for debris.",
+    "entities": [
+      "tractor"
+    ],
+    "ambiguous": [
+      "feed"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Where can I plant sugarcane?",
+    "answer": "Sugarcane thrives in tropical regions with rich soil.",
+    "entities": [
+      "sugarcane"
+    ],
+    "ambiguous": [
+      "plant"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Should I spray pesticide during rain?",
+    "answer": "Avoid spraying during rain to prevent runoff.",
+    "entities": [
+      "pesticide",
+      "rain"
+    ],
+    "ambiguous": [
+      "spray"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "मुझे अच्छी मक्का की किस्म बताइए।",
+    "answer": "आप 'प्रभात' और 'एचएम-4' किस्में ले सकते हैं।",
+    "entities": [
+      "मक्का"
+    ],
+    "ambiguous": []
+  },
+  {
+    "id": 21,
+    "question": "What time is best to feed chickens?",
+    "answer": "Feed them early morning and before dusk.",
+    "entities": [
+      "chickens"
+    ],
+    "ambiguous": [
+      "feed"
+    ]
+  }
+]
